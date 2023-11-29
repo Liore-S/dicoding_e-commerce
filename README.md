@@ -2,4 +2,4 @@
 `streamlit run dashboard/dashboard.py`
 
 ## Streamlit Dashboard URL
-https://dicodinge-commerce.streamlit.app/
+https://sales-dashboard-dicoding.streamlit.app/
