@@ -1,5 +1,5 @@
 ## Run dashboard streamlit
-`streamlit run dashboard.py`
+`streamlit run dashboard/dashboard.py`
 
 ## Streamlit Dashboard URL
 https://dicodinge-commerce.streamlit.app/
