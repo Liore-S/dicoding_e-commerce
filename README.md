@@ -1,11 +1,12 @@
 ## Virtual Environment
 ```
-python -m venv
-
+python -m venv 
 <venv>\Scripts\Activate
 
 pip install -r requirements.txt
-(Pandas, Streamlit, plotly, dll)
+or
+pip install pandas joblib streamlit plotly
+
 ```
 
 ## Run dashboard streamlit
